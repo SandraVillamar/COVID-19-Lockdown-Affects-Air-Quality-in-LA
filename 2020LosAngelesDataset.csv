@@ -1,7 +1,3 @@
-# Daily air quality and meteorological measurementa for majors world-wide cities in 2020
-# By using this data you agree with the terms of service: https://aqicn.org/data-platform/tos/
-# For more information check: https://aqicn.org/data-platform/covid19/
-# Data-Set Generated on 2020-04-20T20:48:49+01:00
 Date,Country,City,Specie,count,min,max,median,variance
 2020-01-22,US,Los Angeles,wind speed,35,0.1,3.1,0.9,9.21
 2020-02-29,US,Los Angeles,wind speed,64,0.1,5.0,1.8,20.97
