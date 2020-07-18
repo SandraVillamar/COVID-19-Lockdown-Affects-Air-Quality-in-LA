@@ -1,4 +1,4 @@
-# Analyze the Effects of COVID-19 Lockdown on Air Pollution in LA County
+# Analysis on the Effects of COVID-19 Lockdown on Air Pollution in LA County
 This project aims to analyze the effects of the COVID-19 lockdown on air pollution in LA County. The data are from government-sponsored websites that record weather and air quality.
 
 ## Objective
